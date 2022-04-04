@@ -12,5 +12,5 @@ function binomial(n, k) {
 
 const result = binomial(10, 4);
 console.log({ result });
-console.log({ totalCalls });
+console.log({ numberOfCalls });
 console.log({ howMany });
